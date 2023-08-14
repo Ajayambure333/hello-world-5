@@ -1,0 +1,5 @@
+#include<stuid.h>
+void main()
+{
+print("hello world...!!!");
+}
